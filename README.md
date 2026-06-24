@@ -18,8 +18,6 @@ Tools: Python, Pandas, Power BI
 Dashboard Preview:
 <img width="1276" height="717" alt="image" src="https://github.com/user-attachments/assets/3c39d4eb-b2aa-4a56-b5ab-e5525e66f87e" />
 
-대시보드 내용 확인했어요. README에 추가할 설명 작성할게요:
-
 - Tracked core churn KPIs including total customers (20,000), current churn rate (8.0%), average churn probability (15.0%), and estimated revenue at risk ($560.4K)
 - Analysed correlation between dataset features and churn rate, identifying support ticket volume and last interaction days as the strongest risk drivers, and CSAT score as the most protective factor
 - Quantified expected revenue loss by risk segment: High ($344.9K), Medium ($122.5K), and Low ($93.0K), based on mean churn probability per group
