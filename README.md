@@ -1,9 +1,6 @@
-Data Analytics Portfolio – Sangeon An
+Data Analytics Portfolio – VIctor(Sangeon) An
 
 Master of IT Business Informatics (Business Analytics) | Yoobee College, Auckland (2025–2026)
-
-Process Engineer turned data analyst with 4 years at Corning Japan, now applying analytical thinking to business and financial decision-making contexts.
-
 
 Email: ansang1002@gmail.com
 Location: Auckland, New Zealand
