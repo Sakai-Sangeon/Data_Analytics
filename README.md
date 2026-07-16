@@ -1,4 +1,4 @@
-# Data Analytics Portfolio – Sangeon An
+# Data Analytics Portfolio – Victor(Sangeon) An
 
 **Master of IT Business Informatics (Business Analytics)** | Yoobee College, Auckland (2025–2026)
 
